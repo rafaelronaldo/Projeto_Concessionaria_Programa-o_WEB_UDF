@@ -13,7 +13,7 @@ Este projeto foi construído utilizando uma pilha de tecnologias amplamente util
 * **Framework CSS/Frontend:** **Bootstrap** 
 * **Marcação:** **HTML5**
 * **Estilização:** **CSS3**
-* **Scripts Frontend:** **JavaScript** (se aplicável, para interatividade adicional).
+* **Scripts Frontend:** **JavaScript** 
 
 
 
